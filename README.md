@@ -1,8 +1,8 @@
-![logo](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)
+![logo](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/Gfm1uaH_0-cAAAAM/code-its-fun-its-fun.gif">
+<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/932559358/photo/silhouette-of-virtual-human-on-circuit-pattern-technology-3d-illustration.jpg?s=612x612&w=0&k=20&c=nIlIze3WtyNN6kZZpWFL3oRSycHFTugUCNxRFEBkOYw=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfarooq-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mfarooq-ahmed" /> </p>
 
