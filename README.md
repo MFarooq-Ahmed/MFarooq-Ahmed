@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv9D9eSfTZTurmrIrfUl813MROdBcKVnQkA&usqp=CAU)
+![logo](https://giffiles.alphacoders.com/345/34530.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
