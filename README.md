@@ -1,8 +1,8 @@
-![logo](https://media.tenor.com/Gfm1uaH_0-cAAAAM/code-its-fun-its-fun.gif)
+![logo](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/Gfm1uaH_0-cAAAAM/code-its-fun-its-fun.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfarooq-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mfarooq-ahmed" /> </p>
 
