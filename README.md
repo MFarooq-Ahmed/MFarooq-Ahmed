@@ -1,4 +1,4 @@
-![logo](https://giffiles.alphacoders.com/345/34530.gif)
+![logo](https://media.tenor.com/Gfm1uaH_0-cAAAAM/code-its-fun-its-fun.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
